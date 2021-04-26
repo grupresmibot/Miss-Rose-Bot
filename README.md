@@ -1,4 +1,4 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
+# [Miss Rose Bot](http://t.me/Testakintosbot)
 
 ### Deploy
 
